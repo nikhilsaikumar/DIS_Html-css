@@ -2,10 +2,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #E1D7C6
 }
 
 header {
-    background-color: #579bb1;
+    background-color: #579BB1;
     display: flexbox;
     color: #fff;
     display: flex;
@@ -154,7 +155,7 @@ button[type="submit"] {
 }
 
 footer {
-    background-color:#f8f4ea;
+    background-color: #f8f4ea;
     padding: 20px 0;
     border-top: 1px solid #ccc;
 }

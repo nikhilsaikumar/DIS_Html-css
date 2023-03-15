@@ -91,7 +91,7 @@
 
 body {
   font-family: sans-serif;
-  background-color: #6D9886;
+  background-color: #E1D7C6;
   display: flex;
   flex-direction: column;
   height: 100%;
@@ -128,7 +128,7 @@ a:hover {
 
 /* Header styles */
 header {
-  background-color: #2B3467;
+  background-color: #579BB1;
   color: white;
   display: flex;
   align-items: center;
